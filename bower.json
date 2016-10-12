@@ -2,9 +2,12 @@
   "name": "www",
   "private": true,
   "dependencies": {
-    "bootstrap-sass": "~3.3.5",
+    "bootstrap-sass": "^3.3.7",
     "modernizr": "~2.8.1",
-    "font-awesome": "^4.6.3"
+    "font-awesome": "^4.6.3",
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "jquery": "^3.1.0"
   },
   "overrides": {
     "bootstrap-sass": {
